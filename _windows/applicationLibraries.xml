@@ -187,6 +187,28 @@
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/ri" />
       </SOURCES>
     </library>
+    <library name="ruby-debug-base (v0.10.6, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/ext" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/ext" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-debug-ide (v0.6.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1/ext" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1/bin" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ruby-debug-ide-0.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="stub [puppet module]">
       <CLASSES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/puppet/lib/stubs" />
