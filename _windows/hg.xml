@@ -1,0 +1,12 @@
+<application>
+  <component name="HgGlobalSettings">
+    <option name="myHgExecutable" value="C:\Program Files\TortoiseHg\hg.exe" />
+    <option name="myRememberedUserNames">
+      <map>
+        <entry key="he-mercurial.recommind.com/hg/dev/recommind/modules/gaia" value="ose" />
+        <entry key="rm-mercurial.recommind.com/hg/dev/recommind/modules/gaia/" value="ose" />
+        <entry key="rm-mercurial.recommind.com/hg/dev/recommind/public/TS/Tools/" value="ose" />
+      </map>
+    </option>
+  </component>
+</application>

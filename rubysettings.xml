@@ -1,0 +1,11 @@
+<application>
+  <component name="RailsApplicationSettings">
+    <option name="wizardRailsFacetPreconfigureDBName" value="sqlite3" />
+    <option name="wizardRailsFacetPreconfigureSkipTUnitFiles" value="true" />
+    <option name="wizardRailsFacetTemplates">
+      <array>
+        <option value="" />
+      </array>
+    </option>
+  </component>
+</application>

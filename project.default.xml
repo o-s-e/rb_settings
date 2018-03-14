@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding">
+        <file url="PROJECT" charset="UTF-8" />
+      </component>
+      <component name="FileColors">
+        <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+        <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+        <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+        <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+      </component>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="JsFlowSettings">
+        <service-enabled>true</service-enabled>
+        <exe-path />
+        <other-services-enabled>true</other-services-enabled>
+        <auto-save>true</auto-save>
+      </component>
+      <component name="ProjectRootManager" version="2" project-jdk-name="jruby-9.1.15.0-p0" project-jdk-type="JRUBY_SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.ruby.settings.RubyActiveModuleSdkConfigurable" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="last_opened_file_path" value="C:/tools/nodejs/npm" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
