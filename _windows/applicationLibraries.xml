@@ -51,6 +51,18 @@
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/extra_features" />
       </SOURCES>
     </library>
+    <library name="diff-lcs (v1.3, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/diff-lcs-1.3/lib" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/diff-lcs-1.3/bin" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/diff-lcs-1.3/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/diff-lcs-1.3/lib" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/diff-lcs-1.3/bin" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/diff-lcs-1.3/autotest" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, jruby-9.1.15.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ffi-1.9.18-java" />
@@ -143,6 +155,16 @@
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/minitest" />
       </SOURCES>
     </library>
+    <library name="mspec (v1.9.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/mspec-1.9.1/bin" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/mspec-1.9.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/mspec-1.9.1/bin" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/mspec-1.9.1/lib" />
+      </SOURCES>
+    </library>
     <library name="power_assert (v0.2.3, jruby-9.1.15.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/power_assert" />
@@ -217,6 +239,46 @@
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rdoc-6.0.1/exe" />
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rdoc-6.0.1/lib" />
         <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rdoc-6.0.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="rspec (v2.14.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-2.14.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-2.14.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-core (v2.14.8, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-core-2.14.8/lib" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-core-2.14.8/exe" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-core-2.14.8/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-core-2.14.8/lib" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-core-2.14.8/exe" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-core-2.14.8/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-expectations (v2.14.5, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-expectations-2.14.5/lib" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-expectations-2.14.5/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-expectations-2.14.5/lib" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-expectations-2.14.5/features" />
+      </SOURCES>
+    </library>
+    <library name="rspec-mocks (v2.14.6, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-mocks-2.14.6/features" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-mocks-2.14.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-mocks-2.14.6/features" />
+        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/rspec-mocks-2.14.6/lib" />
       </SOURCES>
     </library>
     <library name="ruby-debug-base (v0.10.6, jruby-9.1.15.0-p0) [gem]">
