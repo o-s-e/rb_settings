@@ -65,6 +65,18 @@
         <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/extra_features" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20170404, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/tool" />
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/lib" />
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/tool" />
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/lib" />
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/data" />
+      </SOURCES>
+    </library>
     <library name="ffi (v1.9.18, jruby-9.1.15.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/ffi-1.9.18-java" />
@@ -137,6 +149,14 @@
       <SOURCES>
         <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/highline-1.7.8/lib" />
         <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/highline-1.7.8/site" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.3, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="jruby-win32ole (v0.8.5, jruby-9.1.15.0-p0 (1)) [gem]">
@@ -374,6 +394,14 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/puppet/lib/stubs" />
       </CLASSES>
       <SOURCES />
+    </library>
+    <library name="unf (v0.1.4, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/lib" />
+      </SOURCES>
     </library>
     <library name="win32-service (v0.8.10, jruby-9.1.15.0-p0 (1)) [gem]">
       <CLASSES>
