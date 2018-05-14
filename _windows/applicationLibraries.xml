@@ -141,6 +141,22 @@
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/logger-application-0.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="mime-types (v3.1, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mime-types-data (v3.2016.0521, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-data-3.2016.0521/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-data-3.2016.0521/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.11.3, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/minitest-5.11.3/lib" />
@@ -164,6 +180,14 @@
     <library name="net-telnet (v0.1.1, jruby-9.1.16.0-p0) [gem]">
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="netrc (v0.11.0, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/netrc-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/netrc-0.11.0/lib" />
+      </SOURCES>
     </library>
     <library name="power_assert (v0.2.3, jruby-9.1.15.0-p0) [gem]">
       <CLASSES>
@@ -234,6 +258,14 @@
     <library name="rdoc (v4.2.0, jruby-9.1.16.0-p0) [gem]">
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="rest-client (v2.0.2, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/rest-client-2.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/rest-client-2.0.2/lib" />
+      </SOURCES>
     </library>
     <library name="ruby-debug-base (v0.10.6, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
