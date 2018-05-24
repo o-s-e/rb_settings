@@ -17,12 +17,28 @@
       </CLASSES>
       <SOURCES />
     </library>
-    <library name="bundler (v1.16.1, jruby-9.1.16.0-p0) [gem]">
+    <library name="ansi (v1.5.0, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/bundler-1.16.1/lib" />
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ansi-1.5.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/bundler-1.16.1/lib" />
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ansi-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/builder-3.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/builder-3.2.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="bundler (v1.16.2, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/bundler-1.16.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/bundler-1.16.2/lib" />
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.0.1, jruby-9.1.15.0-p0) [gem]">
@@ -38,22 +54,6 @@
       </SOURCES>
     </library>
     <library name="did_you_mean (v1.0.1, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="domain_name (v0.5.20170404, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/domain_name-0.5.20170404/lib" />
-      </SOURCES>
-    </library>
-    <library name="ffi (v1.9.18, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="ffi (v1.9.21, jruby-9.1.16.0-p0) [gem]">
       <CLASSES />
       <SOURCES />
     </library>
@@ -76,26 +76,6 @@
       <SOURCES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/highline-1.7.10/lib" />
       </SOURCES>
-    </library>
-    <library name="highline (v1.7.8, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/highline-1.7.8/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/highline-1.7.8/lib" />
-      </SOURCES>
-    </library>
-    <library name="http-cookie (v1.0.3, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/http-cookie-1.0.3/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/http-cookie-1.0.3/lib" />
-      </SOURCES>
-    </library>
-    <library name="jar-dependencies (v0.3.12, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES />
-      <SOURCES />
     </library>
     <library name="jruby-win32ole (v0.8.5, jruby-9.1.15.0-p0 (1)) [gem]">
       <CLASSES>
@@ -121,22 +101,6 @@
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/jruby-win32ole-0.8.5/lib" />
       </SOURCES>
     </library>
-    <library name="lib42 (v0.0.114, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.114-java/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.114-java/lib" />
-      </SOURCES>
-    </library>
-    <library name="lib42 (v0.0.116, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.116-java/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.116-java/lib" />
-      </SOURCES>
-    </library>
     <library name="lib42 (v0.0.117, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.117-java/lib" />
@@ -151,22 +115,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/logger-application-0.0.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="mime-types (v3.1, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-3.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-3.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="mime-types-data (v3.2016.0521, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-data-3.2016.0521/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/mime-types-data-3.2016.0521/lib" />
       </SOURCES>
     </library>
     <library name="minitest (v5.11.3, jruby-9.1.16.0-p0) [gem]">
@@ -189,16 +137,12 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="net-telnet (v0.1.1, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="netrc (v0.11.0, jruby-9.1.16.0-p0) [gem]">
+    <library name="minitest-reporters (v1.2.0, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/netrc-0.11.0/lib" />
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/minitest-reporters-1.2.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/netrc-0.11.0/lib" />
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/minitest-reporters-1.2.0/lib" />
       </SOURCES>
     </library>
     <library name="power_assert (v0.2.3, jruby-9.1.15.0-p0) [gem]">
@@ -228,14 +172,6 @@
     <library name="rake (v10.4.2, jruby-9.1.16.0-p0) [gem]">
       <CLASSES />
       <SOURCES />
-    </library>
-    <library name="rake (v12.3.0, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/rake-12.3.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/rake-12.3.0/lib" />
-      </SOURCES>
     </library>
     <library name="rake (v12.3.1, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
@@ -271,36 +207,12 @@
       <CLASSES />
       <SOURCES />
     </library>
-    <library name="rest-client (v2.0.2, jruby-9.1.16.0-p0) [gem]">
+    <library name="ruby-progressbar (v1.9.0, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/rest-client-2.0.2/lib" />
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-progressbar-1.9.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/rest-client-2.0.2/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-base (v0.10.6, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-debug-base-0.10.6-java/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.7.0.beta2, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta2/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta2/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-debug-ide (v0.7.0.beta4, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-debug-ide-0.7.0.beta4/lib" />
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="stub [puppet module]">
@@ -308,18 +220,6 @@
         <root url="file://$APPLICATION_HOME_DIR$/plugins/puppet/lib/stubs" />
       </CLASSES>
       <SOURCES />
-    </library>
-    <library name="test-unit (v3.1.1, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES />
-      <SOURCES />
-    </library>
-    <library name="unf (v0.1.4, jruby-9.1.16.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/unf-0.1.4-java/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/unf-0.1.4-java/lib" />
-      </SOURCES>
     </library>
     <library name="win32-service (v0.8.10, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
