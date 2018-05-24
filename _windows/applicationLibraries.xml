@@ -57,6 +57,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="ffi (v1.9.23, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="ffi-win32-extensions (v1.0.3, jruby-9.1.16.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ffi-win32-extensions-1.0.3/lib" />
@@ -131,6 +135,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.116-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="lib42 (v0.0.117, jruby-9.1.16.0-p0) [gem]">
+      <CLASSES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.117-java/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/lib42-0.0.117-java/lib" />
       </SOURCES>
     </library>
     <library name="logger-application (v0.0.2, jruby-9.1.16.0-p0) [gem]">
