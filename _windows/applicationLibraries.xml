@@ -18,16 +18,12 @@
       <SOURCES />
     </library>
     <library name="did_you_mean (v1.0.1, jruby-9.1.15.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/core_ext" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/spell_checkers" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/extra_features" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/core_ext" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/spell_checkers" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/did_you_mean/extra_features" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="jar-dependencies (v0.3.10, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="jruby-win32ole (v0.8.5, jruby-9.1.15.0-p0 (1)) [gem]">
       <CLASSES>
@@ -46,59 +42,33 @@
       </SOURCES>
     </library>
     <library name="minitest (v5.4.1, jruby-9.1.15.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/minitest" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/minitest" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="net-telnet (v0.1.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="power_assert (v0.2.3, jruby-9.1.15.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/power_assert" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/power_assert" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rake (v10.4.2, jruby-9.1.15.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rake/ext" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rake/contrib" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rake/loaders" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rake/ext" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rake/contrib" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rake/loaders" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="rdoc (v4.2.0, jruby-9.1.15.0-p0) [gem]">
-      <CLASSES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/parser" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/rd" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/generator" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markup" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/stats" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/context" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markdown" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/ri" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/parser" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/rd" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/generator" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markup" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/stats" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/context" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/markdown" />
-        <root url="file://C:/Tools/jruby-9.1.15.0/lib/ruby/stdlib/rdoc/ri" />
-      </SOURCES>
+      <CLASSES />
+      <SOURCES />
     </library>
     <library name="stub [puppet module]">
       <CLASSES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/puppet/lib/stubs" />
       </CLASSES>
+      <SOURCES />
+    </library>
+    <library name="test-unit (v3.1.1, jruby-9.1.15.0-p0) [gem]">
+      <CLASSES />
       <SOURCES />
     </library>
   </component>
