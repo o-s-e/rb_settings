@@ -1,5 +1,74 @@
 <application>
   <component name="libraryTable">
+    <library name="actioncable (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actioncable-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actioncable-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionmailer (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actionmailer-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actionmailer-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actionpack-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actionpack-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionview (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actionview-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/actionview-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activejob (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activejob-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activejob-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activemodel (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activemodel-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activemodel-5.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activerecord-5.1.4/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activerecord-5.1.4/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activerecord-5.1.4/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activerecord-5.1.4/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activerecord-5.1.4/examples" />
+      </excluded>
+    </library>
+    <library name="activesupport (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activesupport-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/activesupport-5.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="angular-ui-router-DefinitelyTyped" type="javaScript">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_github.com_borisyankov_DefinitelyTyped_raw_master_angular-ui-router_angular-ui-router.d.ts" />
@@ -25,6 +94,14 @@
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ansi-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="arel (v8.0.0, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/arel-8.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/arel-8.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="builder (v3.2.3, jruby-9.1.16.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/builder-3.2.3/lib" />
@@ -32,6 +109,25 @@
       <SOURCES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/builder-3.2.3/lib" />
       </SOURCES>
+    </library>
+    <library name="builder (v3.2.3, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/doc" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/doc" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/rakelib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/doc" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/builder-3.2.3/rakelib" />
+      </excluded>
     </library>
     <library name="bundler (v1.16.2, jruby-9.1.16.0-p0 (1)) [gem]">
       <CLASSES>
@@ -55,6 +151,27 @@
       <excluded>
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/bundler-1.16.2/exe" />
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/bundler-1.16.2/man" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.0.5, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/concurrent-ruby-1.0.5-java/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/concurrent-ruby-1.0.5-java/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/crass-1.0.4/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/crass-1.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/crass-1.0.4/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/crass-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/crass-1.0.4/test" />
       </excluded>
     </library>
     <library name="did_you_mean (v1.0.1, jruby-9.1.15.0-p0) [gem]">
@@ -84,6 +201,19 @@
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/stdlib/did_you_mean/core_ext" />
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/stdlib/did_you_mean/extra_features" />
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/stdlib/did_you_mean/spell_checkers" />
+      </excluded>
+    </library>
+    <library name="erubi (v1.7.1, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/erubi-1.7.1/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/erubi-1.7.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/erubi-1.7.1/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/erubi-1.7.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/erubi-1.7.1/test" />
       </excluded>
     </library>
     <library name="ffi (v1.9.23, jruby-9.1.16.0-p0 (1)) [gem]">
@@ -118,6 +248,14 @@
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/ffi-win32-extensions-1.0.3/certs" />
       </excluded>
     </library>
+    <library name="globalid (v0.4.1, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/globalid-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/globalid-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="highline (v1.7.10, jruby-9.1.16.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/highline-1.7.10/lib" />
@@ -146,6 +284,22 @@
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/highline-1.7.10/site" />
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/highline-1.7.10/test" />
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/highline-1.7.10/examples" />
+      </excluded>
+    </library>
+    <library name="i18n (v0.9.5, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/i18n-0.9.5/gemfiles" />
       </excluded>
     </library>
     <library name="jar-dependencies (v0.3.12, jruby-9.1.16.0-p0) [gem]" type="ruby">
@@ -243,6 +397,59 @@
         <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/logger-application-0.0.2/test" />
       </excluded>
     </library>
+    <library name="loofah (v2.2.2, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/benchmark" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/loofah-2.2.2/benchmark" />
+      </excluded>
+    </library>
+    <library name="mail (v2.7.0, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mail-2.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mail-2.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.9.0, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/method_source-0.9.0/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/method_source-0.9.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/method_source-0.9.0/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/method_source-0.9.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/method_source-0.9.0/spec" />
+      </excluded>
+    </library>
+    <library name="mini_mime (v1.0.0, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/bench" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/mini_mime-1.0.0/bench" />
+      </excluded>
+    </library>
     <library name="minitest (v5.11.3, jruby-9.1.16.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/minitest-5.11.3/lib" />
@@ -288,6 +495,56 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="nio4r (v2.3.1, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/spec" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/spec" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/spec" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nio4r-2.3.1-java/examples" />
+      </excluded>
+    </library>
+    <library name="nokogiri (v1.8.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/patches" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/patches" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/suppressions" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/patches" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/nokogiri-1.8.4-java/suppressions" />
+      </excluded>
+    </library>
     <library name="power_assert (v0.2.3, jruby-9.1.15.0-p0) [gem]">
       <CLASSES>
         <root url="file://C:/tools/jruby-9.1.15.0/lib/ruby/stdlib/power_assert" />
@@ -299,6 +556,79 @@
     <library name="power_assert (v0.2.3, jruby-9.1.16.0-p0) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="rack (v2.0.5, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/contrib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/contrib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/example" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/test" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/contrib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-2.0.5/example" />
+      </excluded>
+    </library>
+    <library name="rack-test (v1.0.0, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-test-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rack-test-1.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES />
+      <SOURCES />
+    </library>
+    <library name="rails-dom-testing (v2.0.3, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-dom-testing-2.0.3/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-dom-testing-2.0.3/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-dom-testing-2.0.3/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-dom-testing-2.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-dom-testing-2.0.3/test" />
+      </excluded>
+    </library>
+    <library name="rails-html-sanitizer (v1.0.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-html-sanitizer-1.0.4/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-html-sanitizer-1.0.4/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-html-sanitizer-1.0.4/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-html-sanitizer-1.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/rails-html-sanitizer-1.0.4/test" />
+      </excluded>
+    </library>
+    <library name="railties (v5.1.4, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/railties-5.1.4/exe" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/railties-5.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/railties-5.1.4/exe" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/railties-5.1.4/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/railties-5.1.4/exe" />
+      </excluded>
     </library>
     <library name="rake (v10.4.2, jruby-9.1.15.0-p0) [gem]">
       <CLASSES>
@@ -455,6 +785,27 @@
         <root url="file://C:/Program Files/Recommind/GAIA/jruby/lib/ruby/gems/shared/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets (v3.7.2, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-3.7.2/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-3.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-3.7.2/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-3.7.2/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-3.7.2/bin" />
+      </excluded>
+    </library>
+    <library name="sprockets-rails (v3.2.1, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-rails-3.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/sprockets-rails-3.2.1/lib" />
+      </SOURCES>
+    </library>
     <library name="stub [puppet module]">
       <CLASSES>
         <root url="file://$APPLICATION_HOME_DIR$/plugins/puppet/lib/stubs" />
@@ -464,6 +815,81 @@
     <library name="test-unit (v3.1.1, jruby-9.1.16.0-p0) [gem]" type="ruby">
       <CLASSES />
       <SOURCES />
+    </library>
+    <library name="thor (v0.20.0, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thor-0.20.0/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thor-0.20.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thor-0.20.0/bin" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thor-0.20.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thor-0.20.0/bin" />
+      </excluded>
+    </library>
+    <library name="thread_safe (v0.3.6, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </excluded>
+    </library>
+    <library name="tzinfo (v1.2.5, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
+      </excluded>
+    </library>
+    <library name="websocket-driver (v0.6.5, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/examples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/lib" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/ext" />
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-driver-0.6.5-java/examples" />
+      </excluded>
+    </library>
+    <library name="websocket-extensions (v0.1.3, jruby-9.1.16.0-p0) [gem]" type="ruby">
+      <CLASSES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-extensions-0.1.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/tools/jruby-9.1.16.0/lib/ruby/gems/shared/gems/websocket-extensions-0.1.3/lib" />
+      </SOURCES>
     </library>
     <library name="win32-service (v0.8.10, jruby-9.1.16.0-p0 (1)) [gem]">
       <CLASSES>
